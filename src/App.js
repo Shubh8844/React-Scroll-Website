@@ -1,11 +1,13 @@
 import React from "react";
 import "./styles.css";
-import SideBar from "./SideBar.js";
+import Navbar from "./components/Navbar/Navbar.js";
+import Sidebar from "./components/Sidebar/Sidebar.js";
 
 export default function App() {
   return (
     <div className="App">
-      <SideBar />
+      <Sidebar />
+      <Navbar />
     </div>
   );
 }
