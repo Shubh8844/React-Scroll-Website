@@ -38,7 +38,7 @@ export default function Navbar({ toggle }) {
 
             <NavItem>
               {/* note here to="about" not "/about" as this will act as id in scrollLink to sdownside application*/}
-              <NavLinks to="SignUp">Sign In</NavLinks>
+              <NavLinks to="signUp">Sign In</NavLinks>
             </NavItem>
           </NavMenu>
           <NavBtn>
