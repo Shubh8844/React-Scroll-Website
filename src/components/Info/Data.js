@@ -44,7 +44,7 @@ export const homeobjthree = {
     "Get everything set up in 10 mins all you need is add all your information and you are good to go",
   buttonLabel: "Start Now",
   imgStart: true,
-  img: require("../../images/img2.png"),
+  img: require("../../images/img3.png"),
   alt: "Car",
   dark: true,
   primary: true,
